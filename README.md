@@ -1,6 +1,9 @@
 <a href="https://turskyi.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=turskyi&count_private=true&show_icons=true&theme=dark" />
 </a>
+\
+&nbsp;
+\
 &nbsp;
 <a href="https://turskyi.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turskyi&theme=dark&hide=html" />
