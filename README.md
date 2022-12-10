@@ -5,10 +5,8 @@
 <a href="https://turskyi.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turskyi&theme=dark&hide=html" />
 </a>
-<a href="https://twitter.com/DmytroTurskyi" ><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social" /> </a>
-[![Linkedin Badge](https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytroturskyi/)](https://www.linkedin.com/in/dmytroturskyi/)
-&nbsp;![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-
+<a href="https://twitter.com/DmytroTurskyi"><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social"/> </a>
+<a href="https://www.linkedin.com/in/dmytroturskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytroturskyi"/></a>
 
 <!--
 **Turskyi/Turskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
