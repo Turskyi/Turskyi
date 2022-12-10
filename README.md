@@ -1,10 +1,11 @@
 ### Developing web, android and iOS applications, using: 
+* Programming languages: ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&&logo=dart&logoColor=white), ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white), ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 
-Version control systems: ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)&nbsp; ![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=svn)&nbsp;
+* Version control systems: ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)&nbsp; ![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=svn)&nbsp;
 
-Git Hosting Services: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;
+* Git Hosting Services: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)&nbsp;
 
-Integrated development environments: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+* Integrated development environments: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 -----
 
