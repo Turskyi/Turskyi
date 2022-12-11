@@ -17,6 +17,25 @@
 
 -----
 
+### Experience:
+
+<table style="width:100%">
+  <tr>
+    <th><a href="https://cmicglobal.com"><img src ="https://cmicglobal.wpenginepowered.com/wp-content/uploads/2018/02/CMiC-logo-color.svg" width="110"  ></a></th>
+    <th>2022-...</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.facebook.com/MyRoadStudio"><img src ="https://scontent.fyto3-1.fna.fbcdn.net/v/t39.30808-6/300093193_443704741115430_8736194750621697507_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Y5qfQd_4VZ4AX8HFb4r&_nc_ht=scontent.fyto3-1.fna&oh=00_AfDzFJ6g9Ve4DQaYs_pIl0Z6rf2eBMYBHz14Kwj7tuYbiQ&oe=6399F783" width="110" ></a></td>
+    <td>2020-2022</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/company/dev-craft/"><img src ="https://media-exp1.licdn.com/dms/image/C560BAQHR5yfhYnPJvQ/company-logo_200_200/0/1578041517791?e=1678924800&v=beta&t=4W85vt6I3pIZ6pDQVfwtOHZHhqu8A8vRX5vY-3n8p3Q" width="110" ></a></td>
+    <td>2019-2020</td>
+  </tr>
+</table>
+
+-----
+
 You can follow me on social networks: <a href="https://www.linkedin.com/in/dmytroturskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytroturskyi"/></a>
 <a href="https://twitter.com/DmytroTurskyi"><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social"/></a>
 
