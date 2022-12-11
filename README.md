@@ -38,13 +38,3 @@
 
 You can follow me on social networks: <a href="https://www.linkedin.com/in/dmytroturskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytroturskyi"/></a>
 <a href="https://twitter.com/DmytroTurskyi"><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social"/></a>
-
------
-
-<a href="https://turskyi.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=turskyi&count_private=true&show_icons=true&theme=dark" />
-</a>
-&NewLine;
-<a href="https://turskyi.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turskyi&theme=dark&hide=html" />
-</a>
