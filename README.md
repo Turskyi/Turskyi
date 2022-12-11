@@ -9,7 +9,7 @@
 
 * CI/CD: [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)&nbsp; [![Codemagic](https://img.shields.io/badge/codemagic-blue.svg?style=plastic&logo=codemagic&logoColor=red)](https://codemagic.io/)&nbsp; [![Visual Studio App Center](https://img.shields.io/badge/visual%20studio%20app%20center-red.svg?style=plastic&logo=visualstudioappcenter&logoColor=white)](https://visualstudio.microsoft.com/app-center/)&nbsp;
 
-* Integrated development environments: [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)](https://developer.android.com/studio/intro)&nbsp; [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)&nbsp; [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)&nbsp; [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)&nbsp;
+* Integrated development environments: [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)](https://developer.android.com/studio/intro)&nbsp; [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple.svg?style=plastic&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)&nbsp; [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)&nbsp; [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)&nbsp;
 
 * Collaboration platform for API development: [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com)&nbsp;
 
@@ -18,7 +18,7 @@
 -----
 
 You can follow me on social networks: <a href="https://www.linkedin.com/in/dmytroturskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytroturskyi"/></a>
-<a href="https://twitter.com/DmytroTurskyi"><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social"/> </a>
+<a href="https://twitter.com/DmytroTurskyi"><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social"/></a>
 
 -----
 
