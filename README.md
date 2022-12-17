@@ -25,7 +25,7 @@
     <th>2022-...</th>
   </tr>
   <tr>
-    <td><a href="https://www.facebook.com/MyRoadStudio"><img src ="https://scontent.fyto3-1.fna.fbcdn.net/v/t39.30808-6/300093193_443704741115430_8736194750621697507_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Y5qfQd_4VZ4AX8HFb4r&_nc_ht=scontent.fyto3-1.fna&oh=00_AfDzFJ6g9Ve4DQaYs_pIl0Z6rf2eBMYBHz14Kwj7tuYbiQ&oe=6399F783" width="110" ></a></td>
+    <td><a href="https://www.facebook.com/MyRoadStudio"><img src="mrstudio.jpg?raw=true" width="110" ></a></td>
     <td>2020-2022</td>
   </tr>
   <tr>
