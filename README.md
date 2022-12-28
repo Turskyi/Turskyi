@@ -39,3 +39,4 @@
 You can follow me on social networks: <a href="https://www.linkedin.com/in/dmytroturskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytroturskyi"/></a>
 <a href="https://twitter.com/DmytroTurskyi"><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social"/></a>
 <a href="https://www.facebook.com/Dmytro.Turskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/Dmytro.Turskyi"/></a>
+ <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer"><img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@turskyi"/></a>
