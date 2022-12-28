@@ -38,3 +38,4 @@
 
 You can follow me on social networks: <a href="https://www.linkedin.com/in/dmytroturskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytroturskyi"/></a>
 <a href="https://twitter.com/DmytroTurskyi"><img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social"/></a>
+<a href="https://www.facebook.com/Dmytro.Turskyi"><img src ="https://img.shields.io/badge/-Dmytro_Turskyi-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/Dmytro.Turskyi"/></a>
