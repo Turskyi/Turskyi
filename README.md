@@ -29,7 +29,7 @@
     <td>2020-2022</td>
   </tr>
   <tr>
-    <td><a href="https://www.linkedin.com/company/dev-craft/"><img src ="https://media-exp1.licdn.com/dms/image/C560BAQHR5yfhYnPJvQ/company-logo_200_200/0/1578041517791?e=1678924800&v=beta&t=4W85vt6I3pIZ6pDQVfwtOHZHhqu8A8vRX5vY-3n8p3Q" width="110" ></a></td>
+    <td><a href="https://www.linkedin.com/company/dev-craft/"><img src ="https://lh3.googleusercontent.com/a-/ACB-R5TaODIyLXWxfPfgZZ6sQHNlFOUFSwhoq4u9apNo=s64-p-k-no" width="110" ></a></td>
     <td>2019-2020</td>
   </tr>
 </table>
