@@ -15,6 +15,10 @@
 
 * Project management tools: [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)&nbsp; [![Ora](https://img.shields.io/badge/Ora-purple.svg?style=plastic&logo=ora&logoColor=red)](https://ora.pm)&nbsp; [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)](https://trello.com/tour)&nbsp; [![JetBrains Space Project Management](https://img.shields.io/badge/JetBrains_Space_Project_Management-%237F52FF.svg?style=plastic&logo=JetBrains&logoColor=white)](https://www.jetbrains.com/space/features/project-management.html)&nbsp; [![GitLab Agile Planning](https://img.shields.io/badge/GitLab%20Agile%20Planning-%23181717.svg?style=plastic&logo=gitlab&logoColor=orange)](https://about.gitlab.com/solutions/agile-delivery/)&nbsp;  [![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour&logoColor=white)](https://everhour.com)&nbsp;
 
+* Architectural pattern: 
+
+<a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"><img src="the-clean-architecture.png?raw=true" width="800" >
+
 -----
 
 ### Experience:
