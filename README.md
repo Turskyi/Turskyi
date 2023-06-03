@@ -18,6 +18,8 @@
 * Architectural pattern: 
 
 <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"><img src="the-clean-architecture.png?raw=true" width="800" >
+  
+<a href="https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm"><img src="model_view_viewmodel.png?raw=true" width="800" >
 
 -----
 
@@ -37,6 +39,26 @@
     <td>2019-2020</td>
   </tr>
 </table>
+  
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Turskyi&include_all_commits=true&count_private=true&hide=JavaScript&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <br></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turskyi&theme=buefy-dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Turskyi&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 -----
 
