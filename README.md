@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 ### Developing web, android and iOS applications, using: 
 * Programming languages: [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&&logo=dart&logoColor=white)](https://dart.dev)&nbsp; [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)](https://kotlinlang.org)&nbsp; [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=oracle&logoColor=white)](https://www.oracle.com/java/)&nbsp;
 
