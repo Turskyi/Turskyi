@@ -1,8 +1,12 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 ### Developing web, android and iOS applications, using: 
-* Programming languages: [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&&logo=dart&logoColor=white)](https://dart.dev)&nbsp; [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)](https://kotlinlang.org)&nbsp; [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=oracle&logoColor=white)](https://www.oracle.com/java/)&nbsp;
+* Programming languages: [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&&logo=dart&logoColor=white)](https://dart.dev)&nbsp; [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)](https://kotlinlang.org)&nbsp; [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)&nbsp;
 
 * SDK: [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)](https://flutter.dev)&nbsp; [![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)](https://www.android.com/intl/en_ca/what-is-android/)&nbsp;
+
+* State management approaches: [![ViewModel](https://img.shields.io/badge/ViewModel-1997B5&.svg?style=plastic&logo=ViewModel&logoColor=white)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)&nbsp; [![Provider](https://img.shields.io/badge/Provider-%2300ADD8.svg?style=plastic&logo=Provider&logoColor=white)](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)&nbsp; [![BLoC](https://img.shields.io/badge/BLoC-00CCBB.svg?style=plastic&logo=reasonstudios&logoColor=white)](https://bloclibrary.dev/#/)&nbsp;
+
+* Interfaces: [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML&logoColor=white)](https://developer.android.com/guide/topics/ui/declaring-layout)&nbsp; [![Flutter](https://img.shields.io/badge/Flutter-%230081CB.svg?style=plastic&logo=Flutter&logoColor=white)](https://flutter.dev/docs/development/ui)&nbsp;
 
 * Version control systems: [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)&nbsp; [![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=subversion)](https://subversion.apache.org)&nbsp;
 
