@@ -25,6 +25,8 @@
 <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"><img src="the-clean-architecture.png?raw=true" width="800" ></a>
   
 <a href="https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern"><img src="model_view_viewmodel.png?raw=true" width="800" ></a>
+
+<a href="https://en.wikipedia.org/wiki/Model–view–presenter"><img src="model_view_presenter.jpeg?raw=true" width="800" ></a>
   
 <a href="https://developer.android.com/topic/architecture"><img src="app_architecture.png?raw=true" width="800" ></a>
 
