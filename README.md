@@ -1,7 +1,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 <p align="center">
   <a href="https://turskyi.github.io"></a>
-  <h1 align="center">Dmytro Turskyi</h1>
+  <h1 align="center">Software Engineer Dmytro Turskyi</h1>
 </p>
 <p align="center">
  <a href="https://twitter.com/DmytroTurskyi">
