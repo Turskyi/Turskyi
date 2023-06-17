@@ -11,10 +11,10 @@
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)&nbsp;
 
 * Database libraries: 
-[![Room](https://img.shields.io/badge/Room-green.svg?style=plastic&logo=room)](https://developer.android.com/training/data-storage/room)&nbsp; 
-[![sqflite](https://img.shields.io/badge/sqflite-%2307405e.svg?style=plastic&logo=sqflite)](https://pub.dev/packages/sqflite)&nbsp; 
-[![Isar](https://img.shields.io/badge/Isar-blue.svg?style=plastic&logo=isar)](https://isar.dev)&nbsp; 
+[![Room](https://img.shields.io/badge/Room-green.svg?style=plastic&logo=room)](https://developer.android.com/training/data-storage/room)&nbsp;
+[![Isar](https://img.shields.io/badge/Isar-blue.svg?style=plastic&logo=isar)](https://isar.dev)&nbsp;
 [![Drift](https://img.shields.io/badge/Drift-grey.svg?style=plastic&logo=drift)](https://drift.simonbinder.eu)&nbsp;
+[![sqflite](https://img.shields.io/badge/sqflite-%2307405e.svg?style=plastic&logo=sqflite)](https://pub.dev/packages/sqflite)&nbsp; 
 [![Hive](https://img.shields.io/badge/Hive-purple.svg?style=plastic&logo=hivedb)](https://hivedb.dev)&nbsp;
 [![Firestore](https://img.shields.io/badge/Firestore-orange.svg?style=plastic&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)&nbsp;
 
