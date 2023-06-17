@@ -16,8 +16,8 @@
  <a href="https://www.linkedin.com/company/dmytro-turskyi">
   <img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/dmytro-turskyi"/>
 </a>
-<a href="www.facebook.com/groups/thecleanarchitecture/">
-  <img src ="https://img.shields.io/badge/-The Clean Architecture-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=www.facebook.com/groups/thecleanarchitecture/"/>
+<a href="https://www.facebook.com/groups/thecleanarchitecture/">
+  <img src ="https://img.shields.io/badge/-The Clean Architecture-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/groups/thecleanarchitecture/"/>
 </a>
 <a href="https://t.me/the_clean_architecture">
   <img src="https://img.shields.io/static/v1?label=join&message=The Clean Architecture&labelColor=333940&logo=telegram&logoColor=white&color=229ED9">
