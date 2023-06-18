@@ -43,6 +43,8 @@
 [![Hive](https://img.shields.io/badge/Hive-purple.svg?style=plastic&logo=hivedb)](https://hivedb.dev)&nbsp;
 [![Firestore](https://img.shields.io/badge/Firestore-orange.svg?style=plastic&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)&nbsp;
 
+* HTTP client: [![Retrofit](https://img.shields.io/badge/Retrofit-grass.svg?style=plastic&logo=Retrofit)](https://mings.in/retrofit.dart/)&nbsp;
+
 * Interfaces: 
 [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML)](https://developer.android.com/guide/topics/ui/declaring-layout)&nbsp; 
 [![Flutter](https://img.shields.io/badge/Flutter-%230081CB.svg?style=plastic&logo=Flutter)](https://flutter.dev/docs/development/ui)&nbsp; 
@@ -57,8 +59,6 @@
 [![Koin](https://img.shields.io/badge/Koin-yellow.svg?style=plastic&logo=Koin)](https://insert-koin.io/docs/reference/introduction)&nbsp;
 [![Hilt](https://img.shields.io/badge/Hilt-3DDC84.svg?style=plastic&logo=Hilt)](https://developer.android.com/training/dependency-injection/hilt-android)&nbsp;
 [![Injectable get_it](https://img.shields.io/badge/get_it-025E8C.svg?style=plastic&logo=get_it)](https://pub.dev/packages/injectable)&nbsp;
-
-* HTTP client: [![Retrofit](https://img.shields.io/badge/Retrofit-grass.svg?style=plastic&logo=Retrofit)](https://mings.in/retrofit.dart/)&nbsp;
 
 * Version control systems: [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)&nbsp; [![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=subversion)](https://subversion.apache.org)&nbsp;
 
