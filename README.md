@@ -58,6 +58,8 @@
 [![Hilt](https://img.shields.io/badge/Hilt-3DDC84.svg?style=plastic&logo=Hilt)](https://developer.android.com/training/dependency-injection/hilt-android)&nbsp;
 [![Injectable get_it](https://img.shields.io/badge/get_it-025E8C.svg?style=plastic&logo=get_it)](https://pub.dev/packages/injectable)&nbsp;
 
+* HTTP client: [![Retrofit](https://img.shields.io/badge/Retrofit-grass.svg?style=plastic&logo=Retrofit)](https://mings.in/retrofit.dart/)&nbsp;
+
 * Version control systems: [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)&nbsp; [![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=subversion)](https://subversion.apache.org)&nbsp;
 
 * Git Hosting Services: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com)&nbsp; [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com)&nbsp; [![JetBrains Space](https://img.shields.io/badge/JetBrains_Space-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/)&nbsp;
