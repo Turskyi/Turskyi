@@ -60,23 +60,49 @@
 [![Hive](https://img.shields.io/badge/Hive-purple.svg?style=plastic&logo=hivedb)](https://hivedb.dev)&nbsp;
 [![Firestore](https://img.shields.io/badge/Firestore-orange.svg?style=plastic&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)&nbsp;
 
-* Version control systems: [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)&nbsp; [![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=subversion)](https://subversion.apache.org)&nbsp;
+* Reactive programming: 
+[![ReactiveX](https://img.shields.io/badge/ReactiveX-%23B7178C.svg?style=plastic&logo=reactivex)](http://reactivex.io/)&nbsp;
+[![Coroutines](https://img.shields.io/badge/Coroutines-%23DD0031.svg?style=plastic&logo=Coroutines)](https://developer.android.com/kotlin/coroutines)&nbsp;
+[![flow](https://img.shields.io/badge/flow-%23FF6F00.svg?style=plastic&logo=flow)](https://developer.android.com/kotlin/flow)&nbsp;
+[![Stream](https://img.shields.io/badge/Stream-0F79AF?style=plastic&logo=stream)](https://dart.dev/tutorials/language/streams)&nbsp;
 
-* Git Hosting Services: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com)&nbsp; [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com)&nbsp; [![JetBrains Space](https://img.shields.io/badge/JetBrains_Space-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/)&nbsp;
+* Version control systems: 
+[![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)&nbsp; 
+[![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=subversion)](https://subversion.apache.org)&nbsp;
 
-* CI/CD: [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)&nbsp; [![Codemagic](https://img.shields.io/badge/codemagic-blue.svg?style=plastic&logo=codemagic)](https://codemagic.io/)&nbsp; [![Visual Studio App Center](https://img.shields.io/badge/visual%20studio%20app%20center-red.svg?style=plastic&logo=visualstudioappcenter)](https://visualstudio.microsoft.com/app-center/)&nbsp;
+* Git Hosting Services: 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com)&nbsp; 
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com)&nbsp; 
+[![JetBrains Space](https://img.shields.io/badge/JetBrains_Space-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/)&nbsp;
+
+* CI/CD: 
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)&nbsp; 
+[![Codemagic](https://img.shields.io/badge/codemagic-blue.svg?style=plastic&logo=codemagic)](https://codemagic.io/)&nbsp; 
+[![Visual Studio App Center](https://img.shields.io/badge/visual%20studio%20app%20center-red.svg?style=plastic&logo=visualstudioappcenter)](https://visualstudio.microsoft.com/app-center/)&nbsp;
 
 * App testing platforms: 
 [![Firebase](https://img.shields.io/badge/Firebase_App_Distribution-%23039BE5.svg?style=plastic&logo=firebase)](https://firebase.google.com/docs/app-distribution)&nbsp; 
 [![TestFlight](https://img.shields.io/badge/TestFlight-black.svg?style=plastic&logo=apple)](https://developer.apple.com/testflight/)&nbsp;
 
-* App stores: [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play)](https://play.google.com/store/apps/dev?id=8790223297246728168)&nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://www.apple.com/ca/app-store/developing-for-the-app-store/)
+* App stores: 
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play)](https://play.google.com/store/apps/dev?id=8790223297246728168)&nbsp; 
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://www.apple.com/ca/app-store/developing-for-the-app-store/)
 
-* Integrated development environments: [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)](https://developer.android.com/studio/intro)&nbsp; [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple.svg?style=plastic&logo=intellij-idea)](https://www.jetbrains.com/idea/)&nbsp; [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)&nbsp; [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)&nbsp;
+* Integrated development environments: 
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)](https://developer.android.com/studio/intro)&nbsp; 
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple.svg?style=plastic&logo=intellij-idea)](https://www.jetbrains.com/idea/)&nbsp; 
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)&nbsp; 
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)&nbsp;
 
 * API development platform: [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com)&nbsp;
 
-* Project management tools: [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira)](https://www.atlassian.com/software/jira)&nbsp; [![Ora](https://img.shields.io/badge/Ora-purple.svg?style=plastic&logo=ora)](https://ora.pm)&nbsp; [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello)](https://trello.com/tour)&nbsp; [![JetBrains Space Project Management](https://img.shields.io/badge/JetBrains_Space_Project_Management-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/features/project-management.html)&nbsp; [![GitLab Agile Planning](https://img.shields.io/badge/GitLab%20Agile%20Planning-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com/solutions/agile-delivery/)&nbsp;  [![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour)](https://everhour.com)&nbsp;
+* Project management tools: 
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira)](https://www.atlassian.com/software/jira)&nbsp; 
+[![Ora](https://img.shields.io/badge/Ora-purple.svg?style=plastic&logo=ora)](https://ora.pm)&nbsp; 
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello)](https://trello.com/tour)&nbsp; 
+[![JetBrains Space Project Management](https://img.shields.io/badge/JetBrains_Space_Project_Management-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/features/project-management.html)&nbsp; 
+[![GitLab Agile Planning](https://img.shields.io/badge/GitLab%20Agile%20Planning-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com/solutions/agile-delivery/)&nbsp;  
+[![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour)](https://everhour.com)&nbsp;
 
 * Showcase platform: [![Unity Play](https://img.shields.io/badge/Unity_Play-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
 
