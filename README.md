@@ -1,9 +1,11 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
-<div>
+<!--suppress HtmlDeprecatedAttribute -->
+<div align="center">
   <a href="https://turskyi.github.io"></a>
   <h1 style="width:100%;height:10%;text-align:center;position:relative;top:40%;">Software Engineer Dmytro Turskyi</h1>
 </div>
-<p style="width:100%;height:10%;text-align:center;position:relative;top:40%;">
+<!--suppress HtmlDeprecatedAttribute -->
+<p align="center">
  <a href="https://twitter.com/DmytroTurskyi">
   <img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social" alt="Twitter badge"/>
  </a>
