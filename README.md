@@ -213,10 +213,11 @@
 <table style="width:100%">
  <tr border="none">
   <td>
-   <img src="https://github-readme-stats.vercel.app/api?username=Turskyi&include_all_commits=true&count_private=true&hide=JavaScript&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  alt="Statistics"/>
-   <br>
+   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Turskyi&include_all_commits=true&count_private=true&hide=JavaScript&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  alt="Statistics"/>
+    <br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turskyi&theme=buefy-dark&hide_border=false"  alt="Statistics"/> 
   </td>
+
   <td >
    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Turskyi&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript" alt="statistics"/>
   </td>
