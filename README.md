@@ -6,21 +6,27 @@
 </div>
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
+  <!--- twitter -->
  <a href="https://twitter.com/DmytroTurskyi">
   <img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social" alt="Twitter badge"/>
  </a>
+  <!--- my wishboard -->
  <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer">
   <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@turskyi" alt="My wish-board badge"/>
  </a>
+  <!--- goodreads (books I read) -->
  <a href="https://www.goodreads.com/user/show/89268945-dmytro-turskyi" target="_blank" rel="noopener noreferrer">
   <img src ="https://img.shields.io/badge/-goodreads-beige?style=plastic&logo=goodreads&logoColor=brown&link=https://www.goodreads.com/user/show/89268945-dmytro-turskyi" alt="Goodreads social network badge"/>
  </a>
+    <!--- Linkedin (my company) -->
  <a href="https://www.linkedin.com/company/dmytro-turskyi">
   <img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/dmytro-turskyi" alt="Linkedin badge"/>
  </a>
+    <!--- facebook (group of clean archetecture) -->
  <a href="https://www.facebook.com/groups/thecleanarchitecture/">
   <img src ="https://img.shields.io/badge/-The Clean Architecture-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/groups/thecleanarchitecture/" alt="facebook badge"/>
  </a>
+    <!--- telegram (group of clean archetecture) -->
  <a href="https://t.me/the_clean_architecture">
   <img src="https://img.shields.io/static/v1?label=join&message=The Clean Architecture&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
  </a>
@@ -34,6 +40,7 @@
   &nbsp;
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
   &nbsp;
+  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)&nbsp;
 
 * SDK:
   [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)&nbsp;
@@ -125,10 +132,11 @@
   &nbsp;
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-purple.svg?style=plastic&logo=intellij-idea)](https://www.jetbrains.com/idea/)
   &nbsp;
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)
-  &nbsp;
   [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=plastic&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
   &nbsp;
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)
+  &nbsp;
+  [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio)](https://visualstudio.microsoft.com)&nbsp;
 
 * API development platform:
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com)
@@ -181,6 +189,7 @@
 ### Experience:
 
 <table style="width:100%">
+      <!--- CMiC -->
   <tr>
     <th>
      <a href="https://cmicglobal.com">
@@ -189,6 +198,7 @@
     </th>
     <th>2022-...</th>
   </tr>
+       <!--- MR Studio -->
   <tr>
     <td>
      <a href="https://www.facebook.com/MyRoadStudio">
@@ -198,6 +208,7 @@
     </td>
     <td>2020-2022</td>
   </tr>
+         <!--- dev craft -->
   <tr>
     <td>
      <a href="https://www.linkedin.com/company/dev-craft/">
