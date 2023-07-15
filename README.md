@@ -6,15 +6,15 @@
 </div>
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
-  <!--- twitter -->
+  <!--- Twitter -->
  <a href="https://twitter.com/DmytroTurskyi">
   <img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social" alt="Twitter badge"/>
  </a>
-  <!--- my wishboard -->
+  <!--- my wish board -->
  <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer">
   <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@turskyi" alt="My wish-board badge"/>
  </a>
-  <!--- goodreads (books I read) -->
+  <!--- Goodreads (books I read) -->
  <a href="https://www.goodreads.com/user/show/89268945-dmytro-turskyi" target="_blank" rel="noopener noreferrer">
   <img src ="https://img.shields.io/badge/-goodreads-beige?style=plastic&logo=goodreads&logoColor=brown&link=https://www.goodreads.com/user/show/89268945-dmytro-turskyi" alt="Goodreads social network badge"/>
  </a>
@@ -22,11 +22,11 @@
  <a href="https://www.linkedin.com/company/dmytro-turskyi">
   <img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/dmytro-turskyi" alt="Linkedin badge"/>
  </a>
-    <!--- facebook (group of clean archetecture) -->
+    <!--- Facebook (group of clean architecture) -->
  <a href="https://www.facebook.com/groups/thecleanarchitecture/">
-  <img src ="https://img.shields.io/badge/-The Clean Architecture-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/groups/thecleanarchitecture/" alt="facebook badge"/>
+  <img src ="https://img.shields.io/badge/-The Clean Architecture-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/groups/thecleanarchitecture/" alt="Facebook badge"/>
  </a>
-    <!--- telegram (group of clean archetecture) -->
+    <!--- telegram (group of clean architecture) -->
  <a href="https://t.me/the_clean_architecture">
   <img src="https://img.shields.io/static/v1?label=join&message=The Clean Architecture&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
  </a>
