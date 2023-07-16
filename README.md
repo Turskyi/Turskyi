@@ -157,7 +157,11 @@
 * Showcase platform:
   [![Unity Play](https://img.shields.io/badge/Unity_Play-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
 
-* Architectural patterns:
+    <!--- Start of the list with architectural patterns -->
+<details>
+  <summary>Architectural patterns:
+  
+[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/), [Model-View-ViewModel](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern), [Android App Architecture](https://developer.android.com/topic/architecture), [Model-View-Presenter](https://en.wikipedia.org/wiki/Model–view–presenter) </summary>
 
 <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">
  <!--suppress CheckImageSize -->
@@ -183,7 +187,9 @@
  <!--suppress CheckImageSize -->
  <img src="patterns/model_view_presenter.jpeg" width="800"  alt="Model-View-Presenter pattern">
 </a>
-
+</details>
+    <!--- end of the list with architectural patterns -->
+    
 -----
 
 ### Experience:
