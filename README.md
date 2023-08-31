@@ -6,9 +6,13 @@
 </div>
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
-  <!--- Twitter -->
+    <!--- Twitter -->
  <a href="https://twitter.com/DmytroTurskyi">
   <img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social" alt="Twitter badge"/>
+ </a>
+   <!--- stackoverflow -->
+  <a href="https://stackoverflow.com/users/10636137">
+  <img src ="https://img.shields.io/badge/-Stackoverflow-gray?style=plastic&logo=stack-overflow&link=https://stackoverflow.com/users/10636137" alt="Stackoverflow badge"/>
  </a>
   <!--- my wish board -->
  <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer">
