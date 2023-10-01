@@ -42,9 +42,10 @@
   [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&&logo=dart)](https://dart.dev)&nbsp;
   [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)](https://kotlinlang.org)
   &nbsp;
-  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
+  [![Java](https://img.shields.io/badge/java-%23f2f2f2.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
   &nbsp;
   [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)&nbsp;
+  [![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=plastic&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
 
 * SDK:
   [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)&nbsp;
@@ -119,6 +120,7 @@
   &nbsp;
   [![Visual Studio App Center](https://img.shields.io/badge/visual%20studio%20app%20center-red.svg?style=plastic&logo=visualstudioappcenter)](https://visualstudio.microsoft.com/app-center/)
   &nbsp;
+  [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel)](https://vercel.com/features/previews)&nbsp;
 
 * App testing platforms:
   [![Firebase](https://img.shields.io/badge/Firebase_App_Distribution-%23039BE5.svg?style=plastic&logo=firebase)](https://firebase.google.com/docs/app-distribution)
