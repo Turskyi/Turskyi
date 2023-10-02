@@ -44,13 +44,18 @@
   &nbsp;
   [![Java](https://img.shields.io/badge/java-%23f2f2f2.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
   &nbsp;
-  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)&nbsp;
   [![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=plastic&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
+  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)&nbsp;
 
-* SDK:
-  [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)&nbsp;
+* Platforms: 
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)](https://www.android.com/intl/en_ca/what-is-android/)
   &nbsp;
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios)](https://developer.apple.com/ios/)&nbsp;
+  [![Web](https://img.shields.io/badge/web-%238DD6F9.svg?style=plastic&logo=web)](https://en.wikipedia.org/wiki/Web_platform)&nbsp;
+
+* Frameworks:
+  [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)&nbsp;
+  [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)&nbsp;
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
   &nbsp;
 
