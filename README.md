@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://turskyi.github.io"></a>
   <h1 style="width:100%;height:10%;text-align:center;position:relative;top:40%;">Software Engineer Dmytro Turskyi</h1>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=turskyi&label=Profile%20views&color=0e75b6&style=plastic" alt="turskyi" /> </p>
 </div>
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
@@ -237,7 +238,7 @@
   </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <!--- stats (start) -->
 <table style="width:100%">
