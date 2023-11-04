@@ -179,7 +179,7 @@
 <details style="border: 1px solid #aaa; border-radius: 4px; padding: 0.5em 0.5em 0;">
   <summary style="font-weight: bold; margin: -0.5em -0.5em 0; padding: 0.5em; border-bottom: 1px solid #aaa;">Architectural patterns:
 
-  [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/), [Model-View-ViewModel](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern), [Android App Architecture](https://developer.android.com/topic/architecture), [Model-View-Presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
+[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/), [Model-View-ViewModel](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern), [Android App Architecture](https://developer.android.com/topic/architecture), [Model-View-Presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
   </summary>
 <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">
  <!--suppress CheckImageSize -->
@@ -256,7 +256,7 @@
   </td>
 
   <td >
-   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Turskyi&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript" alt="statistics"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turskyi&layout=pie&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript" alt="statistics"/>
   </td>
  </tr>
 </table>
