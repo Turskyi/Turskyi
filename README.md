@@ -23,7 +23,7 @@
  <a href="https://www.goodreads.com/user/show/89268945-dmytro-turskyi" target="_blank" rel="noopener noreferrer">
   <img src ="https://img.shields.io/badge/-goodreads-beige?style=plastic&logo=goodreads&logoColor=brown&link=https://www.goodreads.com/user/show/89268945-dmytro-turskyi" alt="Goodreads social network badge"/>
  </a>
-    <!--- Linkedin (my company) -->
+    <!--- LinkedIn (my company) -->
  <a href="https://www.linkedin.com/company/dmytro-turskyi">
   <img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/dmytro-turskyi" alt="Linkedin badge"/>
  </a>
@@ -45,14 +45,17 @@
   &nbsp;
   [![Java](https://img.shields.io/badge/java-%23f2f2f2.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
   &nbsp;
-  [![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=plastic&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
-  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)&nbsp;
+  [![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=plastic&logo=typescript)](https://www.typescriptlang.org/)
+  &nbsp;
+  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+  &nbsp;
 
-* Platforms: 
+* Platforms:
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)](https://www.android.com/intl/en_ca/what-is-android/)
   &nbsp;
   [![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios)](https://developer.apple.com/ios/)&nbsp;
-  [![Web](https://img.shields.io/badge/web-%238DD6F9.svg?style=plastic&logo=web)](https://en.wikipedia.org/wiki/Web_platform)&nbsp;
+  [![Web](https://img.shields.io/badge/web-%238DD6F9.svg?style=plastic&logo=web)](https://en.wikipedia.org/wiki/Web_platform)
+  &nbsp;
 
 * Frameworks:
   [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)&nbsp;
@@ -126,7 +129,8 @@
   &nbsp;
   [![Visual Studio App Center](https://img.shields.io/badge/visual%20studio%20app%20center-red.svg?style=plastic&logo=visualstudioappcenter)](https://visualstudio.microsoft.com/app-center/)
   &nbsp;
-  [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel)](https://vercel.com/features/previews)&nbsp;
+  [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel)](https://vercel.com/features/previews)
+  &nbsp;
 
 * App testing platforms:
   [![Firebase](https://img.shields.io/badge/Firebase_App_Distribution-%23039BE5.svg?style=plastic&logo=firebase)](https://firebase.google.com/docs/app-distribution)
@@ -148,7 +152,8 @@
   &nbsp;
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)
   &nbsp;
-  [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio)](https://visualstudio.microsoft.com)&nbsp;
+  [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio)](https://visualstudio.microsoft.com)
+  &nbsp;
 
 * API development platform:
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com)
@@ -170,11 +175,12 @@
   [![Unity Play](https://img.shields.io/badge/Unity_Play-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
 
     <!--- Start of the list with architectural patterns -->
+
 <details>
   <summary>Architectural patterns:
-  
-[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/), [Model-View-ViewModel](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern), [Android App Architecture](https://developer.android.com/topic/architecture), [Model-View-Presenter](https://en.wikipedia.org/wiki/Model–view–presenter) </summary>
 
+[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/), [Model-View-ViewModel](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern), [Android App Architecture](https://developer.android.com/topic/architecture), [Model-View-Presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
+</summary>
 <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">
  <!--suppress CheckImageSize -->
  <img src="patterns/the-clean-architecture.png" width="800"  alt="Clean architecture pattern">
