@@ -174,36 +174,13 @@
 * Showcase platform:
   [![Unity Play](https://img.shields.io/badge/Unity_Play-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
 
-    <!--- Start of the list with architectural patterns -->
-  
-  <style>
-  details {
-    border: 1px solid #aaa;
-    border-radius: 4px;
-    padding: 0.5em 0.5em 0;
-  }
-
-  summary {
-    font-weight: bold;
-    margin: -0.5em -0.5em 0;
-    padding: 0.5em;
-  }
-
-  details[open] {
-    padding: 0.5em;
-  }
-
-  details[open] summary {
-    border-bottom: 1px solid #aaa;
-    margin-bottom: 0.5em;
-  }
-  </style>
+  <!--- Start of the list with architectural patterns -->
 
 <details>
   <summary>Architectural patterns:
 
-[The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/), [Model-View-ViewModel](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern), [Android App Architecture](https://developer.android.com/topic/architecture), [Model-View-Presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
-</summary>
+  [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), [The Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/), [Model-View-ViewModel](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern), [Android App Architecture](https://developer.android.com/topic/architecture), [Model-View-Presenter](https://en.wikipedia.org/wiki/Model–view–presenter)
+  </summary>
 <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">
  <!--suppress CheckImageSize -->
  <img src="patterns/the-clean-architecture.png" width="800"  alt="Clean architecture pattern">
