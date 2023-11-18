@@ -83,7 +83,7 @@
   &nbsp;
   [![Hilt](https://img.shields.io/badge/Hilt-3DDC84.svg?style=plastic&logo=Hilt)](https://developer.android.com/training/dependency-injection/hilt-android)
   &nbsp;
-  [![Injectable get_it](https://img.shields.io/badge/get_it-025E8C.svg?style=plastic&logo=get_it)](https://pub.dev/packages/injectable)
+  [![Injectable get_it](https://img.shields.io/badge/injectable-025E8C.svg?style=plastic&logo=injectable)](https://pub.dev/packages/injectable)
   &nbsp;
 
 * HTTP client:
