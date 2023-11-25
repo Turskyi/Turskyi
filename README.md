@@ -72,11 +72,9 @@
   &nbsp;
 
 * State management approaches:
-  [![ViewModel](https://img.shields.io/badge/ViewModel-1997B5&.svg?style=plastic&logo=ViewModel)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)
-  [![Provider](https://img.shields.io/badge/Provider-%2300ADD8.svg?style=plastic&logo=Provider)](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
-  &nbsp;
-  [![BLoC](https://img.shields.io/badge/BLoC-00CCBB.svg?style=plastic&logo=reasonstudios)](https://bloclibrary.dev/#/)
-  &nbsp;
+  [![ViewModel](https://img.shields.io/badge/ViewModel-1997B5&.svg?style=plastic&logo=ViewModel)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)&nbsp;
+  [![BLoC](https://img.shields.io/badge/BLoC-00CCBB.svg?style=plastic&logo=reasonstudios)](https://bloclibrary.dev/#/)&nbsp;
+  [![Provider](https://img.shields.io/badge/Provider-%2300ADD8.svg?style=plastic&logo=Provider)](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)&nbsp;
 
 * Dependency injection libraries:
   [![Koin](https://img.shields.io/badge/Koin-yellow.svg?style=plastic&logo=Koin)](https://insert-koin.io/docs/reference/introduction)
