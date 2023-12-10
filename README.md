@@ -27,11 +27,11 @@
  <a href="https://www.linkedin.com/company/dmytro-turskyi">
   <img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/dmytro-turskyi" alt="Linkedin badge"/>
  </a>
-    <!--- Facebook (group of clean architecture) -->
+    <!--- Facebook (group "clean architecture") -->
  <a href="https://www.facebook.com/groups/thecleanarchitecture/">
   <img src ="https://img.shields.io/badge/-The Clean Architecture-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/groups/thecleanarchitecture/" alt="Facebook badge"/>
  </a>
-    <!--- telegram (group of clean architecture) -->
+    <!--- telegram (group "clean architecture") -->
  <a href="https://t.me/the_clean_architecture">
   <img src="https://img.shields.io/static/v1?label=join&message=The Clean Architecture&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
  </a>
@@ -62,19 +62,24 @@
   [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)&nbsp;
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
   &nbsp;
+  [![Compose Multiplatform](https://img.shields.io/badge/Compose-blue?style=plastic&logo=compose)](https://www.jetbrains.com/lp/compose-multiplatform/)
+  &nbsp;
 
 * Interfaces:
-  [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML)](https://developer.android.com/guide/topics/ui/declaring-layout)
-  &nbsp;
   [![Flutter](https://img.shields.io/badge/Flutter-%230081CB.svg?style=plastic&logo=Flutter)](https://flutter.dev/docs/development/ui)
   &nbsp;
   [![Unity](https://img.shields.io/badge/Unity_Hub-%23000000.svg?style=plastic&logo=unity)](https://unity.com/unity-hub)
   &nbsp;
+  [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML)](https://developer.android.com/guide/topics/ui/declaring-layout)
+  &nbsp;
 
 * State management approaches:
-  [![ViewModel](https://img.shields.io/badge/ViewModel-1997B5&.svg?style=plastic&logo=ViewModel)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)&nbsp;
-  [![BLoC](https://img.shields.io/badge/BLoC-00CCBB.svg?style=plastic&logo=reasonstudios)](https://bloclibrary.dev/#/)&nbsp;
-  [![Provider](https://img.shields.io/badge/Provider-%2300ADD8.svg?style=plastic&logo=Provider)](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)&nbsp;
+  [![ViewModel](https://img.shields.io/badge/ViewModel-1997B5&.svg?style=plastic&logo=ViewModel)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)
+  &nbsp;
+  [![BLoC](https://img.shields.io/badge/BLoC-00CCBB.svg?style=plastic&logo=reasonstudios)](https://bloclibrary.dev/#/)
+  &nbsp;
+  [![Provider](https://img.shields.io/badge/Provider-%2300ADD8.svg?style=plastic&logo=Provider)](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
+  &nbsp;
 
 * Dependency injection libraries:
   [![Koin](https://img.shields.io/badge/Koin-yellow.svg?style=plastic&logo=Koin)](https://insert-koin.io/docs/reference/introduction)
@@ -92,10 +97,10 @@
   [![Room](https://img.shields.io/badge/Room-green.svg?style=plastic&logo=room)](https://developer.android.com/training/data-storage/room)
   &nbsp;
   [![Isar](https://img.shields.io/badge/Isar-blue.svg?style=plastic&logo=isar)](https://isar.dev)&nbsp;
+  [![Hive](https://img.shields.io/badge/Hive-purple.svg?style=plastic&logo=hivedb)](https://hivedb.dev)&nbsp;
   [![Drift](https://img.shields.io/badge/Drift-grey.svg?style=plastic&logo=drift)](https://drift.simonbinder.eu)&nbsp;
   [![sqflite](https://img.shields.io/badge/sqflite-%2307405e.svg?style=plastic&logo=sqflite)](https://pub.dev/packages/sqflite)
   &nbsp;
-  [![Hive](https://img.shields.io/badge/Hive-purple.svg?style=plastic&logo=hivedb)](https://hivedb.dev)&nbsp;
   [![Firestore](https://img.shields.io/badge/Firestore-orange.svg?style=plastic&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
   &nbsp;
 
