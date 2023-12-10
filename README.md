@@ -82,11 +82,11 @@
   &nbsp;
 
 * Dependency injection libraries:
-  [![Koin](https://img.shields.io/badge/Koin-yellow.svg?style=plastic&logo=Koin)](https://insert-koin.io/docs/reference/introduction)
+  [![Injectable get_it](https://img.shields.io/badge/injectable-025E8C.svg?style=plastic&logo=injectable)](https://pub.dev/packages/injectable)
   &nbsp;
   [![Hilt](https://img.shields.io/badge/Hilt-3DDC84.svg?style=plastic&logo=Hilt)](https://developer.android.com/training/dependency-injection/hilt-android)
   &nbsp;
-  [![Injectable get_it](https://img.shields.io/badge/injectable-025E8C.svg?style=plastic&logo=injectable)](https://pub.dev/packages/injectable)
+  [![Koin](https://img.shields.io/badge/Koin-yellow.svg?style=plastic&logo=Koin)](https://insert-koin.io/docs/reference/introduction)
   &nbsp;
 
 * HTTP client:
