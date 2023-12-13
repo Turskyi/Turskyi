@@ -69,7 +69,7 @@
 - Interfaces:
   [![Flutter](https://img.shields.io/badge/Flutter-%230081CB.svg?style=plastic&logo=Flutter)](https://flutter.dev/docs/development/ui)
   &nbsp;
-  [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-blue?style=plastic&logo=compose)](https://www.jetbrains.com/lp/compose-multiplatform/)
+  [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-blue?style=plastic&logo=compose)](https://www.jetpackcompose.net/jetpack-compose-introduction)
   &nbsp;
   [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML)](https://developer.android.com/guide/topics/ui/declaring-layout)
   &nbsp;
