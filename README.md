@@ -81,8 +81,6 @@
   &nbsp;
   [![BLoC](https://img.shields.io/badge/BLoC-00CCBB.svg?style=plastic&logo=reasonstudios)](https://bloclibrary.dev/#/)
   &nbsp;
-  [![Provider](https://img.shields.io/badge/Provider-%2300ADD8.svg?style=plastic&logo=Provider)](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
-  &nbsp;
 
 - Dependency injection libraries:
   [![Injectable get_it](https://img.shields.io/badge/injectable-025E8C.svg?style=plastic&logo=injectable)](https://pub.dev/packages/injectable)
