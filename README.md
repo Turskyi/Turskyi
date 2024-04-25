@@ -41,10 +41,11 @@
 ### Developing web, android and iOS applications, using:
 
 - Programming languages:
-  [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&&logo=dart)](https://dart.dev)&nbsp;
+  [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&&logo=dart)](https://dart.dev)
+  &nbsp;
   [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)](https://kotlinlang.org)
   &nbsp;
-  [![Java](https://img.shields.io/badge/java-%23f2f2f2.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
+  [![Java](https://img.shields.io/badge/java-red.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
   &nbsp;
   [![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=plastic&logo=typescript)](https://www.typescriptlang.org/)
   &nbsp;
@@ -54,13 +55,16 @@
 - Platforms:
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)](https://www.android.com/intl/en_ca/what-is-android/)
   &nbsp;
-  [![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios)](https://developer.apple.com/ios/)&nbsp;
+  [![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios)](https://developer.apple.com/ios/)
+  &nbsp;
   [![Web](https://img.shields.io/badge/web-%238DD6F9.svg?style=plastic&logo=web)](https://en.wikipedia.org/wiki/Web_platform)
   &nbsp;
 
 - Frameworks:
-  [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)&nbsp;
-  [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)&nbsp;
+  [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)
+  &nbsp;
+  [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)
+  &nbsp;
   [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-blue?style=plastic&logo=compose)](https://www.jetbrains.com/lp/compose-multiplatform/)
   &nbsp;
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
@@ -97,9 +101,12 @@
 - Database libraries:
   [![Room](https://img.shields.io/badge/Room-green.svg?style=plastic&logo=room)](https://developer.android.com/training/data-storage/room)
   &nbsp;
-  [![Drift](https://img.shields.io/badge/Drift-grey.svg?style=plastic&logo=drift)](https://drift.simonbinder.eu)&nbsp;
-  [![Isar](https://img.shields.io/badge/Isar-blue.svg?style=plastic&logo=isar)](https://isar.dev)&nbsp;
-  [![Hive](https://img.shields.io/badge/Hive-purple.svg?style=plastic&logo=hivedb)](https://hivedb.dev)&nbsp;
+  [![Drift](https://img.shields.io/badge/Drift-grey.svg?style=plastic&logo=drift)](https://drift.simonbinder.eu)
+  &nbsp;
+  [![Isar](https://img.shields.io/badge/Isar-blue.svg?style=plastic&logo=isar)](https://isar.dev)
+  &nbsp;
+  [![Hive](https://img.shields.io/badge/Hive-purple.svg?style=plastic&logo=hivedb)](https://hivedb.dev)
+  &nbsp;
   [![sqflite](https://img.shields.io/badge/sqflite-%2307405e.svg?style=plastic&logo=sqflite)](https://pub.dev/packages/sqflite)
   &nbsp;
   [![Firestore](https://img.shields.io/badge/Firestore-orange.svg?style=plastic&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
@@ -116,11 +123,14 @@
   &nbsp;
 
 - Version control systems:
-  [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)&nbsp;
-  [![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=subversion)](https://subversion.apache.org)&nbsp;
+  [![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)](https://git-scm.com)
+  &nbsp;
+  [![SVN](https://img.shields.io/badge/-SVN-blue?style=plastic&logo=subversion)](https://subversion.apache.org)
+  &nbsp;
 
 - Git Hosting Services:
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com)&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com)
+  &nbsp;
   [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com)
   &nbsp;
   [![JetBrains Space](https://img.shields.io/badge/JetBrains_Space-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/)
@@ -166,14 +176,16 @@
 - Project management tools:
   [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira)](https://www.atlassian.com/software/jira)
   &nbsp;
-  [![Ora](https://img.shields.io/badge/Ora-purple.svg?style=plastic&logo=ora)](https://ora.pm)&nbsp;
+  [![Ora](https://img.shields.io/badge/Ora-purple.svg?style=plastic&logo=ora)](https://ora.pm)
+  &nbsp;
   [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello)](https://trello.com/tour)
   &nbsp;
   [![JetBrains Space Project Management](https://img.shields.io/badge/JetBrains_Space_Project_Management-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/features/project-management.html)
   &nbsp;
   [![GitLab Agile Planning](https://img.shields.io/badge/GitLab%20Agile%20Planning-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com/solutions/agile-delivery/)
   &nbsp;  
-  [![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour)](https://everhour.com)&nbsp;
+  [![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour)](https://everhour.com)
+  &nbsp;
 
 - Showcase platform:
   [![Unity Play](https://img.shields.io/badge/Unity_Play-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
