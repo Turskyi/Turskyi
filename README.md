@@ -45,8 +45,6 @@
   &nbsp;
   [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)](https://kotlinlang.org)
   &nbsp;
-  [![Java](https://img.shields.io/badge/java-red.svg?style=plastic&logo=openjdk)](https://www.oracle.com/java/)
-  &nbsp;
   [![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=plastic&logo=typescript)](https://www.typescriptlang.org/)
   &nbsp;
 
