@@ -49,8 +49,6 @@
   &nbsp;
   [![TypeScript](https://img.shields.io/badge/typescript-white.svg?style=plastic&logo=typescript)](https://www.typescriptlang.org/)
   &nbsp;
-  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-  &nbsp;
 
 - Platforms:
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)](https://www.android.com/intl/en_ca/what-is-android/)
