@@ -133,8 +133,6 @@
   &nbsp;
   [![Codemagic](https://img.shields.io/badge/codemagic-blue.svg?style=plastic&logo=codemagic)](https://codemagic.io/)
   &nbsp;
-  [![Visual Studio App Center](https://img.shields.io/badge/visual%20studio%20app%20center-red.svg?style=plastic&logo=visualstudioappcenter)](https://visualstudio.microsoft.com/app-center/)
-  &nbsp;
   [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel)](https://vercel.com/features/previews)
   &nbsp;
 
