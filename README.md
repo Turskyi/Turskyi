@@ -73,8 +73,6 @@
   &nbsp;
   [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML)](https://developer.android.com/guide/topics/ui/declaring-layout)
   &nbsp;
-  [![Unity](https://img.shields.io/badge/Unity_Hub-%23000000.svg?style=plastic&logo=unity)](https://unity.com/unity-hub)
-  &nbsp;
 
 - State management approaches:
   [![ViewModel](https://img.shields.io/badge/ViewModel-1997B5&.svg?style=plastic&logo=ViewModel)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)
@@ -176,9 +174,6 @@
   &nbsp;  
   [![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour)](https://everhour.com)
   &nbsp;
-
-- Showcase platform:
-  [![Unity Play](https://img.shields.io/badge/Unity_Play-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
 
   <!--- Start of the list with architectural patterns -->
 
