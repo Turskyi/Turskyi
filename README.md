@@ -63,8 +63,6 @@
   &nbsp;
   [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-blue?style=plastic&logo=compose)](https://www.jetbrains.com/lp/compose-multiplatform/)
   &nbsp;
-  [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity)](https://unity.com/developer-tools)
-  &nbsp;
 
 - Interfaces:
   [![Flutter](https://img.shields.io/badge/Flutter-%230081CB.svg?style=plastic&logo=Flutter)](https://flutter.dev/docs/development/ui)
@@ -84,8 +82,6 @@
   [![Injectable get_it](https://img.shields.io/badge/injectable-025E8C.svg?style=plastic&logo=injectable)](https://pub.dev/packages/injectable)
   &nbsp;
   [![Hilt](https://img.shields.io/badge/Hilt-3DDC84.svg?style=plastic&logo=Hilt)](https://developer.android.com/training/dependency-injection/hilt-android)
-  &nbsp;
-  [![Koin](https://img.shields.io/badge/Koin-yellow.svg?style=plastic&logo=Koin)](https://insert-koin.io/docs/reference/introduction)
   &nbsp;
 
 - HTTP client:
@@ -154,8 +150,6 @@
   &nbsp;
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com)
   &nbsp;
-  [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio)](https://visualstudio.microsoft.com)
-  &nbsp;
 
 - API development platform:
   [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)](https://www.postman.com)
@@ -171,7 +165,7 @@
   [![JetBrains Space Project Management](https://img.shields.io/badge/JetBrains_Space_Project_Management-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/features/project-management.html)
   &nbsp;
   [![GitLab Agile Planning](https://img.shields.io/badge/GitLab%20Agile%20Planning-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com/solutions/agile-delivery/)
-  &nbsp;  
+  &nbsp;
   [![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour)](https://everhour.com)
   &nbsp;
 
