@@ -36,6 +36,10 @@
  <a href="https://t.me/the_clean_architecture">
   <img src="https://img.shields.io/static/v1?label=join&message=The Clean Architecture&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
  </a>
+    <!--- leetcode -->
+ <a href="https://leetcode.com/u/Turskyi/">
+  <img src ="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&link=https://leetcode.com/u/Turskyi" alt="LeetCode badge"/>
+ </a>
 </p>
 
 ### Developing web, android and iOS applications, using:
@@ -61,13 +65,13 @@
   &nbsp;
   [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)
   &nbsp;
-  [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-blue?style=plastic&logo=compose)](https://www.jetbrains.com/lp/compose-multiplatform/)
+  [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-blue?style=plastic&logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
   &nbsp;
 
 - Interfaces:
   [![Flutter](https://img.shields.io/badge/Flutter-%230081CB.svg?style=plastic&logo=Flutter)](https://flutter.dev/docs/development/ui)
   &nbsp;
-  [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-blue?style=plastic&logo=compose)](https://www.jetpackcompose.net/jetpack-compose-introduction)
+  [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-white?style=plastic&logo=jetpackcompose)](https://www.jetpackcompose.net/jetpack-compose-introduction)
   &nbsp;
   [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML)](https://developer.android.com/guide/topics/ui/declaring-layout)
   &nbsp;
