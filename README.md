@@ -235,7 +235,7 @@
          <!--- dev craft -->
   <tr>
     <td>
-     <a href="https://www.linkedin.com/company/dev-craft/">
+     <a href="https://www.instagram.com/devcraft_official">
       <!--suppress CheckImageSize -->
       <img src ="logos/dev-craft-logo.jpg" width="110"  alt="Dev Craft logo">
      </a>
