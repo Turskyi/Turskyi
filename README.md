@@ -105,8 +105,6 @@
 - Reactive programming:
   [![ReactiveX](https://img.shields.io/badge/ReactiveX-%23B7178C.svg?style=plastic&logo=reactivex)](http://reactivex.io/)
   &nbsp;
-  [![Coroutines](https://img.shields.io/badge/Coroutines-%23DD0031.svg?style=plastic&logo=Coroutines)](https://developer.android.com/kotlin/coroutines)
-  &nbsp;
   [![flow](https://img.shields.io/badge/flow-%23FF6F00.svg?style=plastic&logo=flow)](https://developer.android.com/kotlin/flow)
   &nbsp;
   [![Stream](https://img.shields.io/badge/Stream-0F79AF?style=plastic&logo=stream)](https://dart.dev/tutorials/language/streams)
