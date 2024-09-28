@@ -258,4 +258,16 @@
   </td>
  </tr>
 </table>
+
+<table style="width:100%; max-width:850px;">
+ <tr border="none">
+  <td>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Turskyi&theme=github_dark" alt="Most Commit Language"/>
+  </td>
+  <td>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Turskyi&theme=github_dark" alt="Profile Details"/>
+  </td>
+ </tr>
+</table>
+
 <!--- stats (end) -->
