@@ -36,7 +36,7 @@
  <a href="https://t.me/the_clean_architecture">
   <img src="https://img.shields.io/static/v1?label=join&message=The Clean Architecture&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
  </a>
-    <!--- leetcode -->
+    <!--- LeetCode -->
  <a href="https://leetcode.com/u/Turskyi/">
   <img src ="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&link=https://leetcode.com/u/Turskyi" alt="LeetCode badge"/>
  </a>
@@ -254,7 +254,7 @@
   </td>
 
   <td >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turskyi&layout=pie&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript" alt="statistics"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turskyi&layout=pie&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript,C%2B%2B,CMake,Python,Ruby,C,Objective-C" alt="statistics"/>
   </td>
  </tr>
 </table>
