@@ -5,16 +5,14 @@
   <a href="https://turskyi.github.io"></a>
   <h1 style="width:100%;height:10%;text-align:center;position:relative;top:40%;">Software Engineer Dmytro Turskyi</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=turskyi&label=Profile%20views&color=0e75b6&style=plastic" alt="turskyi" /> </p>
+      <!--- stack-overflow -->
+<a href="https://stackoverflow.com/users/10636137/dmytro-t"><img src="https://stackoverflow.com/users/flair/10636137.png?theme=dark" width="208" height="58" alt="Profile for Dmytro Turskyi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Dmytro Turskyi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </div>
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
     <!--- Twitter -->
  <a href="https://twitter.com/DmytroTurskyi">
   <img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social" alt="Twitter badge"/>
- </a>
-   <!--- stack-overflow -->
-  <a href="https://stackoverflow.com/users/10636137">
-  <img src ="https://img.shields.io/badge/-Stackoverflow-gray?style=plastic&logo=stack-overflow&link=https://stackoverflow.com/users/10636137" alt="Stackoverflow badge"/>
  </a>
   <!--- my wish board -->
  <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer">
@@ -121,8 +119,6 @@
   &nbsp;
   [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com)
   &nbsp;
-  [![JetBrains Space](https://img.shields.io/badge/JetBrains_Space-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/)
-  &nbsp;
 
 - CI/CD:
   [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
@@ -163,8 +159,6 @@
   [![Ora](https://img.shields.io/badge/Ora-purple.svg?style=plastic&logo=ora)](https://ora.pm)
   &nbsp;
   [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello)](https://trello.com/tour)
-  &nbsp;
-  [![JetBrains Space Project Management](https://img.shields.io/badge/JetBrains_Space_Project_Management-%237F52FF.svg?style=plastic&logo=JetBrains)](https://www.jetbrains.com/space/features/project-management.html)
   &nbsp;
   [![GitLab Agile Planning](https://img.shields.io/badge/GitLab%20Agile%20Planning-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com/solutions/agile-delivery/)
   &nbsp;
