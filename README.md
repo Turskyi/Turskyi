@@ -31,8 +31,8 @@
   <img src ="https://img.shields.io/badge/-The Clean Architecture-aliceblue?style=plastic&logo=Facebook&logoColor=blue&link=https://www.facebook.com/groups/thecleanarchitecture/" alt="Facebook badge"/>
  </a>
     <!--- telegram (group "clean architecture") -->
- <a href="https://t.me/the_clean_architecture">
-  <img src="https://img.shields.io/static/v1?label=join&message=The Clean Architecture&labelColor=333940&logo=telegram&logoColor=white&color=229ED9" alt="Telegram badge">
+  <a href="https://t.me/the_clean_architecture">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram badge">
  </a>
     <!--- LeetCode -->
  <a href="https://leetcode.com/u/Turskyi/">
@@ -61,9 +61,9 @@
 - Frameworks:
   [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter)](https://flutter.dev)
   &nbsp;
-  [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)
-  &nbsp;
   [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-blue?style=plastic&logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
+  &nbsp;
+  [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)
   &nbsp;
 
 - Interfaces:
@@ -71,31 +71,29 @@
   &nbsp;
   [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-white?style=plastic&logo=jetpackcompose)](https://www.jetpackcompose.net/jetpack-compose-introduction)
   &nbsp;
-  [![XML](https://img.shields.io/badge/XML-%23107C10.svg?style=plastic&logo=XML)](https://developer.android.com/guide/topics/ui/declaring-layout)
-  &nbsp;
 
 - State management approaches:
-  [![ViewModel](https://img.shields.io/badge/ViewModel-1997B5&.svg?style=plastic&logo=ViewModel)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)
+  [![ViewModel](https://img.shields.io/badge/ViewModel-For_Android-1997B5&.svg?style=plastic&logo=ViewModel)](https://developer.android.com/reference/androidx/lifecycle/ViewModel)
   &nbsp;
-  [![BLoC](https://img.shields.io/badge/BLoC-00CCBB.svg?style=plastic&logo=reasonstudios)](https://bloclibrary.dev/#/)
+  [![BLoC](https://img.shields.io/badge/BLoC-For_Flutter-00CCBB.svg?style=plastic&logo=BLoC)](https://bloclibrary.dev/#/)
   &nbsp;
 
 - Dependency injection libraries:
-  [![Injectable get_it](https://img.shields.io/badge/injectable-025E8C.svg?style=plastic&logo=injectable)](https://pub.dev/packages/injectable)
+  [![Injectable get_it](https://img.shields.io/badge/injectable-For_Flutter-025E8C.svg?style=plastic&logo=injectable)](https://pub.dev/packages/injectable)
   &nbsp;
-  [![Hilt](https://img.shields.io/badge/Hilt-3DDC84.svg?style=plastic&logo=Hilt)](https://developer.android.com/training/dependency-injection/hilt-android)
+  [![Hilt](https://img.shields.io/badge/Hilt-For_Android-3DDC84.svg?style=plastic&logo=Hilt)](https://developer.android.com/training/dependency-injection/hilt-android)
   &nbsp;
 
 - HTTP client:
-  [![Retrofit](https://img.shields.io/badge/Retrofit-grass.svg?style=plastic&logo=Retrofit)](https://mings.in/retrofit.dart/)
+  [![Retrofit](https://img.shields.io/badge/Retrofit-For_Dart-blue.svg?style=plastic&logo=Retrofit)](https://mings.in/retrofit.dart/)
+  &nbsp;
+  [![Retrofit](https://img.shields.io/badge/Retrofit-for_Android-grass.svg?style=plastic&logo=Retrofit)](https://square.github.io/retrofit/)
   &nbsp;
 
 - Database libraries:
-  [![Room](https://img.shields.io/badge/Room-green.svg?style=plastic&logo=room)](https://developer.android.com/training/data-storage/room)
+  [![Room](https://img.shields.io/badge/Room-For_Android-green.svg?style=plastic&logo=room)](https://developer.android.com/training/data-storage/room)
   &nbsp;
-  [![Drift](https://img.shields.io/badge/Drift-grey.svg?style=plastic&logo=drift)](https://drift.simonbinder.eu)
-  &nbsp;
-  [![sqflite](https://img.shields.io/badge/sqflite-%2307405e.svg?style=plastic&logo=sqflite)](https://pub.dev/packages/sqflite)
+  [![Drift](https://img.shields.io/badge/Drift-For_Flutter-blue.svg?style=plastic&logo=drift)](https://drift.simonbinder.eu)
   &nbsp;
   [![Firestore](https://img.shields.io/badge/Firestore-orange.svg?style=plastic&logo=firebase&logoColor=white)](https://firebase.google.com/docs/firestore)
   &nbsp;
@@ -103,9 +101,9 @@
 - Reactive programming:
   [![ReactiveX](https://img.shields.io/badge/ReactiveX-%23B7178C.svg?style=plastic&logo=reactivex)](http://reactivex.io/)
   &nbsp;
-  [![flow](https://img.shields.io/badge/flow-%23FF6F00.svg?style=plastic&logo=flow)](https://developer.android.com/kotlin/flow)
+  [![flow](https://img.shields.io/badge/flow-For_Android-%23FF6F00.svg?style=plastic&logo=flow)](https://developer.android.com/kotlin/flow)
   &nbsp;
-  [![Stream](https://img.shields.io/badge/Stream-0F79AF?style=plastic&logo=stream)](https://dart.dev/tutorials/language/streams)
+  [![Stream](https://img.shields.io/badge/Stream-For_Flutter-0F79AF?style=plastic&logo=stream)](https://dart.dev/tutorials/language/streams)
   &nbsp;
 
 - Version control systems:
@@ -137,7 +135,7 @@
 - App stores:
   [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=plastic&logo=google-play)](https://play.google.com/store/apps/dev?id=8790223297246728168)
   &nbsp;
-  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://www.apple.com/ca/app-store/developing-for-the-app-store/)
+  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/dmytro-turskyi/id1803716526)
 
 - Integrated development environments:
   [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)](https://developer.android.com/studio/intro)
@@ -157,12 +155,6 @@
   [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira)](https://www.atlassian.com/software/jira)
   &nbsp;
   [![Ora](https://img.shields.io/badge/Ora-purple.svg?style=plastic&logo=ora)](https://ora.pm)
-  &nbsp;
-  [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello)](https://trello.com/tour)
-  &nbsp;
-  [![GitLab Agile Planning](https://img.shields.io/badge/GitLab%20Agile%20Planning-%23181717.svg?style=plastic&logo=gitlab)](https://about.gitlab.com/solutions/agile-delivery/)
-  &nbsp;
-  [![Everhour](https://img.shields.io/badge/Everhour-green.svg?style=plastic&logo=everhour)](https://everhour.com)
   &nbsp;
 
   <!--- Start of the list with architectural patterns -->
