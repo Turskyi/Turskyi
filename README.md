@@ -16,15 +16,16 @@
  </a>
   <!--- my wish board -->
  <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer">
-  <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@turskyi" alt="My wish-board badge"/>
+  <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@turskyi" 
+  alt="My wish-board badge"/>
  </a>
   <!--- Goodreads (books I read) -->
  <a href="https://www.goodreads.com/user/show/89268945-dmytro-turskyi" target="_blank" rel="noopener noreferrer">
   <img src ="https://img.shields.io/badge/-goodreads-beige?style=plastic&logo=goodreads&logoColor=brown&link=https://www.goodreads.com/user/show/89268945-dmytro-turskyi" alt="Goodreads social network badge"/>
  </a>
     <!--- LinkedIn (my company) -->
- <a href="https://www.linkedin.com/company/dmytro-turskyi">
-  <img src ="https://img.shields.io/badge/-Dmytro_Turskyi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/dmytro-turskyi" alt="Linkedin badge"/>
+  <a href="https://www.linkedin.com/company/dmytro-turskyi">
+  <img src ="https://img.shields.io/badge/LinkedIn-Dmytro_Turskyi-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="Linkedin badge"/>
  </a>
     <!--- Facebook (group "clean architecture") -->
  <a href="https://www.facebook.com/groups/thecleanarchitecture/">
@@ -32,7 +33,7 @@
  </a>
     <!--- telegram (group "clean architecture") -->
   <a href="https://t.me/the_clean_architecture">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram badge">
+  <img src="https://img.shields.io/badge/The Clean Architecture-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram badge">
  </a>
     <!--- LeetCode -->
  <a href="https://leetcode.com/u/Turskyi/">
