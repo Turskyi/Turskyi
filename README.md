@@ -172,27 +172,27 @@
   </summary>
 <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">
  <!--suppress CheckImageSize -->
- <img src="patterns/the-clean-architecture.png" width="800"  alt="Clean architecture pattern">
+ <img src="patterns_gallery/the-clean-architecture.png" width="800"  alt="Clean architecture pattern">
 </a>
 
 <a href="https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/">
  <!--suppress CheckImageSize -->
- <img src="patterns/onion_architecture.jpeg" width="800"  alt="Onion architecture pattern">
+ <img src="patterns_gallery/onion_architecture.jpeg" width="800"  alt="Onion architecture pattern">
 </a>
 
 <a href="https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm#the-mvvm-pattern">
  <!--suppress CheckImageSize -->
- <img src="patterns/model_view_viewmodel.png" width="800"  alt="Model-View-ViewModel pattern">
+ <img src="patterns_gallery/model_view_viewmodel.png" width="800"  alt="Model-View-ViewModel pattern">
 </a>
 
 <a href="https://developer.android.com/topic/architecture">
  <!--suppress CheckImageSize -->
- <img src="patterns/app_architecture.png" width="800"  alt="Android App Architecture pattern">
+ <img src="patterns_gallery/app_architecture.png" width="800"  alt="Android App Architecture pattern">
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Model–view–presenter">
  <!--suppress CheckImageSize -->
- <img src="patterns/model_view_presenter.jpeg" width="800"  alt="Model-View-Presenter pattern">
+ <img src="patterns_gallery/model_view_presenter.jpeg" width="800"  alt="Model-View-Presenter pattern">
 </a>
 </details>
     <!--- end of the list with architectural patterns -->
@@ -239,11 +239,13 @@
 <table style="width:100%">
  <tr border="none">
   <td>
+  <!-- Dmytro Turskyi's GitHub Stats -->
    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Turskyi&include_all_commits=true&count_private=true&hide=JavaScript&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"  alt="Statistics"/>
     <br>
+    <!-- Total Contributions|Current Streak|Longest Streak -->
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Turskyi&theme=buefy-dark&hide_border=false"  alt="Statistics"/> 
   </td>
-
+<!-- Most Used Languages -->
   <td >
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turskyi&layout=pie&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10&include_all_commits=true&count_private=true&hide=JavaScript,C%2B%2B,CMake,Python,Ruby,C,Objective-C" alt="statistics"/>
   </td>
@@ -252,9 +254,11 @@
 
 <table style="width:100%; max-width:850px;">
  <tr border="none">
+ <!-- Top Languages by Commit -->
   <td>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Turskyi&theme=github_dark" alt="Most Commit Language"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Turskyi&theme=github_dark&exclude=JavaScript" alt="Most Commit Language"/>
   </td>
+  <!-- Turskyi (Dmytro Turskyi) contributions in the last year -->
   <td>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Turskyi&theme=github_dark" alt="Profile Details"/>
   </td>
