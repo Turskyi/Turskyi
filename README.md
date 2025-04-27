@@ -14,10 +14,9 @@
  <a href="https://twitter.com/DmytroTurskyi">
   <img src="https://img.shields.io/twitter/follow/DmytroTurskyi.svg?style=social" alt="Twitter badge"/>
  </a>
-  <!--- my wish board -->
- <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer">
-  <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@turskyi" 
-  alt="My wish-board badge"/>
+     <!--- Bluesky -->
+ <a href="https://bsky.app/profile/turskyi.bsky.social">
+  <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=plastic" alt="Bluesky badge"/>
  </a>
   <!--- Goodreads (books I read) -->
  <a href="https://www.goodreads.com/user/show/89268945-dmytro-turskyi" target="_blank" rel="noopener noreferrer">
@@ -39,6 +38,11 @@
  <a href="https://leetcode.com/u/Turskyi/">
   <img src ="https://img.shields.io/badge/LeetCode-000000?style=plastic&logo=LeetCode&link=https://leetcode.com/u/Turskyi" alt="LeetCode badge"/>
  </a>
+   <!--- my wish board -->
+ <a href="https://mywishboard.com/@turskyi" target="_blank" rel="noopener noreferrer">
+  <img src ="https://img.shields.io/badge/-My_Wishboard-orange?style=plastic&logo=mywishboard&logoColor=orange&link=https://mywishboard.com/@turskyi" 
+  alt="My wish-board badge"/>
+ </a>
 </p>
 
 ### Developing web, android and iOS applications, using:
@@ -54,7 +58,7 @@
 - Platforms:
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)](https://www.android.com/intl/en_ca/what-is-android/)
   &nbsp;
-  [![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios)](https://developer.apple.com/ios/)
+  [![iOS](https://img.shields.io/badge/Apple-000000?style=plastic&logo=ios)](https://developer.apple.com/ios/)
   &nbsp;
   [![Web](https://img.shields.io/badge/web-%238DD6F9.svg?style=plastic&logo=web)](https://en.wikipedia.org/wiki/Web_platform)
   &nbsp;
@@ -64,7 +68,7 @@
   &nbsp;
   [![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-blue?style=plastic&logo=jetpackcompose&logoColor=white)](https://www.jetbrains.com/lp/compose-multiplatform/)
   &nbsp;
-  [![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js)](https://nextjs.org)
+  [![Next JS](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js)](https://nextjs.org)
   &nbsp;
 
 - Interfaces:
@@ -120,17 +124,17 @@
   &nbsp;
 
 - CI/CD:
-  [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+  [![GitHub Actions](https://img.shields.io/badge/github%20actions-For_Android-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
   &nbsp;
-  [![Codemagic](https://img.shields.io/badge/codemagic-blue.svg?style=plastic&logo=codemagic)](https://codemagic.io/)
+  [![Codemagic](https://img.shields.io/badge/codemagic-For_Flutter-blue.svg?style=plastic&logo=codemagic)](https://codemagic.io/)
   &nbsp;
-  [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel)](https://vercel.com/features/previews)
+  [![Vercel](https://img.shields.io/badge/vercel-For_Next.js-%23000000.svg?style=plastic&logo=vercel)](https://vercel.com/features/previews)
   &nbsp;
 
 - App testing platforms:
-  [![Firebase](https://img.shields.io/badge/Firebase_App_Distribution-%23039BE5.svg?style=plastic&logo=firebase)](https://firebase.google.com/docs/app-distribution)
+  [![Firebase](https://img.shields.io/badge/Firebase_App_Distribution-For_Android-%23039BE5.svg?style=plastic&logo=firebase)](https://firebase.google.com/docs/app-distribution)
   &nbsp;
-  [![TestFlight](https://img.shields.io/badge/TestFlight-black.svg?style=plastic&logo=apple)](https://developer.apple.com/testflight/)
+  [![TestFlight](https://img.shields.io/badge/TestFlight-For_iOS-black.svg?style=plastic&logo=apple)](https://developer.apple.com/testflight/)
   &nbsp;
 
 - App stores:
