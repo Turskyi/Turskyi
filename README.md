@@ -3,7 +3,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
   <a href="https://turskyi.github.io"></a>
-  <h1 style="width:100%;height:10%;text-align:center;position:relative;top:40%;">Software Engineer Dmytro Turskyi</h1>
+  <h1 style="width:100%;height:10%;text-align:center;position:relative;top:40%;">Software Engineer - Dmytro Turskyi</h1>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=turskyi&label=Profile%20views&color=0e75b6&style=plastic" alt="turskyi" /> </p>
       <!--- stack-overflow -->
 <a href="https://stackoverflow.com/users/10636137/dmytro-t"><img src="https://stackoverflow.com/users/flair/10636137.png?theme=dark" width="208" height="58" alt="Profile for Dmytro Turskyi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Profile for Dmytro Turskyi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
@@ -198,40 +198,6 @@
     <!--- end of the list with architectural patterns -->
     
 -----
-
-### Experience:
-
-<table style="width:100%">
-      <!--- CMiC -->
-  <tr>
-    <th>
-     <a href="https://cmicglobal.com">
-      <img src ="https://cmicglobal.wpenginepowered.com/wp-content/uploads/2018/02/CMiC-logo-color.svg" width="110"   alt="CMiC logo">
-     </a>
-    </th>
-    <th>2022-...</th>
-  </tr>
-       <!--- MR Studio -->
-  <tr>
-    <td>
-     <a href="https://www.facebook.com/MyRoadStudio">
-      <!--suppress CheckImageSize -->
-      <img src="logos/mrstudio.jpg" width="110"  alt="MR studio Oleksandr Hrubalskyi">
-     </a>
-    </td>
-    <td>2020-2022</td>
-  </tr>
-         <!--- dev craft -->
-  <tr>
-    <td>
-     <a href="https://www.instagram.com/devcraft_official">
-      <!--suppress CheckImageSize -->
-      <img src ="logos/dev-craft-logo.jpg" width="110"  alt="Dev Craft logo">
-     </a>
-    </td>
-    <td>2019-2020</td>
-  </tr>
-</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
